@@ -1,2 +1,1 @@
-# churn_modelling
-churn modelling using data science
+This project employs Random Forest and XGBoost models to predict customer churn in the banking industry. The dataset includes essential features like age, balance, and product ownership. Categorical variables are transformed into numerical values using pandas' get_dummies function. With a commendable final accuracy of 86% for Random Forest and 85% for XGBoost, the models effectively identify potential churn. Significant factors, such as credit card ownership and tenure, contribute to the predictive power. The achieved accuracy, surpassing the 70% industry standard, empowers the bank to proactively target at-risk customers, optimizing retention strategies and ensuring long-term business stability.
